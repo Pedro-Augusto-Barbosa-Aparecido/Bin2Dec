@@ -1,6 +1,10 @@
+import './styles'
+
 function Main(){
     return(
-        <p>Hello Word!!</p>
+        <div className="MainDiv">
+
+        </div> 
     )
 }
 

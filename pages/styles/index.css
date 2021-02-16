@@ -1,0 +1,7 @@
+.MainDiv{
+    width: 600px;
+    height: 600px;
+    border: 10px solid #f68a1f;
+    border-radius: 4px;
+    background-color: white;
+}
